@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local inputs and generated outputs
+/data/
+/results/
+/outputs/
+/paper/
+/runs/
+/literature/
+/replay/
+*.zip
+*.log
